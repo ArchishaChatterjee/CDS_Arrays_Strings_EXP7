@@ -4,7 +4,7 @@
 - To study the concepts of arrays and strings in C++.
 - To implement basic programs involving arrays and strings such as searching, reversing, and manipulation operations.
 
-## Apparatus
+## Software
 - Programiz Online Compiler or Visual Studio (VS)
 
 ## Theory
